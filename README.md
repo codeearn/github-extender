@@ -1,5 +1,5 @@
 # github_extender
-a github extender which will create the start and stop of the github cli actions for the repositories and will make it easier for the git actions. just a username and the number of the reporsitories to the user and it will make all the git clone clients for the user. 
+a github extender which will create the start and stop of the github cli actions for the repositories and will make it easier for the git actions. just a username and the number of the reporsitories to the user and it will make all the git clone clients for the user. I plan to write entirely in C but then invoked a part of the code in bash and part in C. Follow this for the RUST crate. 
 
 ```
 #! /usr/bin/bash 
