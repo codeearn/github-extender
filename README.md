@@ -35,8 +35,9 @@ do
   echo https://github.com/$i;
 done
 ```
-
 Gaurav Sablok \
 Academic Staff Member \
-Universität Potsdam \
-Germany
+Bioinformatics \
+Institute for Biochemistry and Biology \
+University of Potsdam \
+Potsdam,Germany
